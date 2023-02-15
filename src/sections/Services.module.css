@@ -1,0 +1,52 @@
+/* Services */
+
+.Services-about {
+  background: #f2f2f2;
+  padding-bottom: 30px;
+}
+
+.Services-container {
+  display: grid;
+  gap: 50px;
+  grid-template-columns: repeat(3, 1fr);
+  flex-wrap: wrap;
+}
+
+.Services-ind {
+  text-align: center;
+}
+
+.Services-ind > img {
+  width: 200px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.Services-ind > p {
+  margin-top: 10px;
+  text-align: justify;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 900px) {
+  .Services-container {
+    grid-template-columns: 1fr;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .Services-ind img {
+    width: 400px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .Services-about > div > h2 {
+    margin: 0;
+  }
+
+  .Services-ind > img {
+    width: 80%;
+  }
+}
