@@ -1,0 +1,12 @@
+{
+  "name": "webpage-boost-your-sales",
+  "version": "1.0.0",
+  "description": "https://alexcgdesign.com/blog/crea-una-pagina-web-desde-0-con-efecto-wave/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
