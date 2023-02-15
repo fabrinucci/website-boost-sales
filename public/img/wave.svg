@@ -1,0 +1,17 @@
+<svg
+  viewBox="0 0 500 150"
+  preserveAspectRatio="none"
+  style="height: 100%; width: 100%"
+>
+  <path
+    d="M1.41,84.38 C149.99,150.00 349.20,-49.98 500.00,49.98 L502.54,167.28 L0.00,150.00 Z"
+    style="
+      stroke: none;
+      fill: rgb(255, 255, 255);
+      --darkreader-inline-stroke: none;
+      --darkreader-inline-fill: #33a6ff;
+    "
+    data-darkreader-inline-stroke=""
+    data-darkreader-inline-fill=""
+  ></path>
+</svg>
