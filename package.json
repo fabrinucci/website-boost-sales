@@ -1,15 +1,24 @@
 {
   "name": "webpage-boost-your-sales",
   "version": "0.0.1",
-  "description": "https://alexcgdesign.com/blog/crea-una-pagina-web-desde-0-con-efecto-wave/",
+  "description": "Boost your sales",
+  "author": "Fabrizio Nucci",
+  "homepage": "https://github.com/fabrinucci/website-boost-sales",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrinucci/website-boost-sales.git"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "boost",
+    "sales",
+    "business"
+  ],
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
